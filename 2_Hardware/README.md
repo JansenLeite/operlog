@@ -1,4 +1,4 @@
-# Hardware
+# 2.Hardware
 Material de apoio de estudos para o Curso de Operador de Logística FIC.
 
 ## Atividade Avaliativa
