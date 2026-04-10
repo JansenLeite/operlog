@@ -14,8 +14,12 @@ Material de apoio de estudos para o Curso de Operador de Logística FIC.
 
 ## Atividade Avaliativa - Individual
 
-[clicque aqui para responder o formulário](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMDVMQjZVRlM3VFNHNlQySEZSSFoxNjRGTS4u)
+[clique aqui para responder o formulário](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMDVMQjZVRlM3VFNHNlQySEZSSFoxNjRGTS4u)
 
 
 ## Material de Apoio
-- Computador
+[Introdução a Hardware](https://github.com/JansenLeite/operlog/blob/main/2_Hardware/OPL_01_01_Introdu%C3%A7%C3%A3o_hardware.pdf)
+
+## Recursos que podem ser utilizados
+- Computador;
+- Sem consulta;
