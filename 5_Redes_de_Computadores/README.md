@@ -19,10 +19,10 @@ Considere seus conhecimentos em Redes de Computadores apresentado em aula confor
 
 Deverá ser formada **4 equipes** onde apresentarão os seguintes temas:
 
-**Equipe 01:** Topologia de Redes (Abordar os 7 tipos de topologia abordados e conforme o marterial de apoio).
-**Equipe 02:** Vantagens e desvantagens de cada topologia apresentada pela equipe 1.
-**Equipe 03:** Meios de Transmissão (Abordar os 3 tipos de meios cabeados e 4 tipos de meios não cabeados).
-**Equipe 04:** Vantagens e desvantagens de cada Meio de Transmissão apresentado pela equipe 3.
+**Equipe 01:** Topologia de Redes (Abordar os 7 tipos de topologia abordados e conforme o marterial de apoio).<br />
+**Equipe 02:** Vantagens e desvantagens de cada topologia apresentada pela equipe 1.<br />
+**Equipe 03:** Meios de Transmissão (Abordar os 3 tipos de meios cabeados e 4 tipos de meios não cabeados).<br />
+**Equipe 04:** Vantagens e desvantagens de cada Meio de Transmissão apresentado pela equipe 3.<br />
 
 **Obs.:** Cada integrante do grupo deverá preencher o formulário abaixo com o conteúdo desenvolvido.
 [Clique aqui para preencher o formulário](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUM0JST1VTMTdZRzFLRVVGQk5GMUVPSDlERy4u)
