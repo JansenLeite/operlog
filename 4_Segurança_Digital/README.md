@@ -22,7 +22,7 @@ Considere seus conhecimentos em Segurança Digital apresentado em aula, conforme
 Deverá ser formada **3 equipes** onde apresentarão os seguintes temas:
 
 **Equipe 01:** Golpes Digitais<br />
-**Sugestão: ** Contextualize (faça uma breve introdução sobre o que é Golpes Digitais);<br />
+**Sugestão:** Contextualize (faça uma breve introdução sobre o que é Golpes Digitais);<br />
 **Requisitos:** Deverá ser abordado, ao menos, 5 principais tipos de golpes digitais mais utilizados no cenário digital atual.<br />
 **Considere:** 
 	- Em quais âmbitos sociais ocorrem (crianças, jovens, terceira idade);<br />
@@ -30,7 +30,7 @@ Deverá ser formada **3 equipes** onde apresentarão os seguintes temas:
 	- Como se previnir;<br /><br />
 	
 **Equipe 02:** Tipos de Software Maliciosos (Malware)<br />
-**Sugestão: ** Contextualize (faça uma breve introdução sobre o que é Malware);<br />
+**Sugestão:** Contextualize (faça uma breve introdução sobre o que é Malware);<br />
 **Requisitos:** Deverá ser abordado, ao menos, 5 principais tipos de software maliciosos.<br />
 **Considere:** 
 	- Em quais âmbitos sociais ocorrem (crianças, jovens, terceira idade);<br />
@@ -38,7 +38,7 @@ Deverá ser formada **3 equipes** onde apresentarão os seguintes temas:
 	- Como se previnir;<br /><br />
 
 **Equipe 03:** Lei de Proteção Geral de Dados Pessoais (LGPD).<br />
-**Sugestão: ** Contextualize (faça uma breve introdução sobre o que é a LGPD);<br />
+**Sugestão:** Contextualize (faça uma breve introdução sobre o que é a LGPD);<br />
 **Requisitos:** Deverá ser abordado, ao menos, os 4 princípios que regem a LGPD (O que regula, Direitos do Titular, Pliares e Aplicação).<br />
 **Considere:** 
 	- Quais os pilares que regem a Lei;<br />
