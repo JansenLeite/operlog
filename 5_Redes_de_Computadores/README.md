@@ -24,7 +24,7 @@ Deverá ser formada **4 equipes** onde apresentarão os seguintes temas:
 **Equipe 03:** Meios de Transmissão (Abordar os 3 tipos de meios cabeados e 4 tipos de meios não cabeados).<br />
 **Equipe 04:** Vantagens e desvantagens de cada Meio de Transmissão apresentado pela equipe 3.<br />
 
-**Obs.:** Cada integrante do grupo deverá preencher o formulário abaixo com o conteúdo desenvolvido.
+**Obs.:** Cada integrante do grupo deverá preencher o formulário abaixo com o conteúdo desenvolvido.<br /> 
 [Clique aqui para preencher o formulário](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUM0JST1VTMTdZRzFLRVVGQk5GMUVPSDlERy4u)
 
 
